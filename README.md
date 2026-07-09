@@ -62,7 +62,7 @@ A logic-based deductive reasoning application built around the rules of Murdoku 
 
 ## 📫 Let's Connect!
 
-* **LinkedIn:** [linkedin.com/in/yourprofile]([CodingBSilva](https://pt.linkedin.com/in/brunomrsilva))
+* **LinkedIn:** [linkedin.com/in/brunomrsilva](https://pt.linkedin.com/in/brunomrsilva)
 * **Email:** [your.email@example.com](mailto:your.email@example.com)
 * **Portfolio:** [yourportfolio.dev](https://yourportfolio.dev)
 

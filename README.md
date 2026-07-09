@@ -17,17 +17,17 @@ I build intelligent, production-ready systems, specializing in agentic AI archit
 
 ## 🚀 Featured Projects
 
-### 🛠️ [TheAIWeekendProject](https://github.com/your-username/TheAIWeekendProject)
+### 🛠️ [TheAIWeekendProject](https://github.com/CodingBSilva/TheAIWeekendProject)
 A curated ecosystem of practical AI applications designed to master agentic workflows and advanced prompt engineering.
 * **What it does:** Implements custom system prompts, multi-agent coordination, and Retrieval-Augmented Generation (RAG) to solve real-world automation tasks.
 * **Tech Stack:** Python, LangChain, OpenAI API, Vector DBs.
 
-### 🗺️ [Middle-Earth Fitness Tracker](https://github.com/your-username/middle-earth-fitness)
+### 🗺️ [Middle-Earth Fitness Tracker]
 A gamified fitness application that transforms daily physical activity into an epic journey.
 * **What it does:** Integrates with Android Health data to track steps and kilometers, mapping the user's real-world walking progress to the legendary journey from Hobbiton to Mount Doom.
 * **Tech Stack:** Android SDK, Kotlin/Java, Health Connect API, SQLite.
 
-### 🧩 [Murdoku App Engine](https://github.com/your-username/murdoku-engine)
+### 🧩 [Murdoku App Engine]
 A logic-based deductive reasoning application built around the rules of Murdoku puzzles.
 * **What it does:** Generates and validates intricate deductive puzzles using a custom algorithmic backtracking engine.
 * **Tech Stack:** TypeScript, React, Node.js.
@@ -49,14 +49,14 @@ A logic-based deductive reasoning application built around the rules of Murdoku 
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodingBSilva&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingBSilva&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Let's Connect!
 
-* **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+* **LinkedIn:** [linkedin.com/in/yourprofile]([CodingBSilva](https://pt.linkedin.com/in/brunomrsilva))
 * **Email:** [your.email@example.com](mailto:your.email@example.com)
 * **Portfolio:** [yourportfolio.dev](https://yourportfolio.dev)
 

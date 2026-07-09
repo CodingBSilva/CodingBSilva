@@ -17,7 +17,7 @@ I build intelligent, production-ready systems, specializing in agentic AI archit
 
 ## 🚀 Featured Projects
 
-### 🛠️ [TheAIWeekendProject](https://github.com/CodingBSilva/TheAIWeekendProject)
+### 🛠️ [TheAIWeekendProject](https://github.com/CodingBSilva/TheWekendProject)
 A curated ecosystem of practical AI applications designed to master agentic workflows and advanced prompt engineering.
 * **What it does:** Implements custom system prompts, multi-agent coordination, and Retrieval-Augmented Generation (RAG) to solve real-world automation tasks.
 * **Tech Stack:** Python, LangChain, OpenAI API, Vector DBs.

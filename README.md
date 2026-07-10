@@ -25,7 +25,7 @@ A curated ecosystem of practical AI applications designed to master agentic work
 ### 🛠️ [Aurora](https://github.com/CodingBSilva/Aurora)
 This repository contains the complete infrastructure for the Aurora platform, an integrated data and Machine Learning architecture deployed locally via Docker Compose on the <HOST_URL> server. 
 The deployment, structural validation, and environment updates are 100% automated via GitLab CI/CD.
-* **What it does:** Implements complete infrastructure for ML Projects.
+* **What it does:** Implements an integrated data and Machine Learning architecture deployed locally via Docker.
 * **Tech Stack:** Apache Airflow, MLflow, MinIO, Spark, Jupyter Notebook, PostgreSQL.
 
 ### 🗺️ [Middle-Earth Fitness Tracker]

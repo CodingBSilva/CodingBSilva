@@ -1,7 +1,16 @@
 # Hi there, I'm Bruno da Silva 👋
 
-### AI Engineer & Full-Stack Developer 
+### AI Curious Engineer 
+
+## 🚀 About Me
 I build intelligent, production-ready systems, specializing in agentic AI architectures, LLM orchestration, and clean code. I love turning complex logic puzzles into elegant, high-performance applications.
+
+Driven by relentless curiosity, my current focus is pushing the boundaries of what's possible with modern AI, Large Language Models (LLMs), and autonomous agents.
+
+## 💡 The "Weekend Project" Philosophy
+I am a firm believer in learning by doing. True technical mastery isn't born under the spotlight; it is built in the quiet hours of the weekend, line of code by line of code.
+
+That is why I created O Teu Treino de Elite — a dedicated repository for weekend projects designed for engineers who understand that the best way to master engineering and AI is to build. It’s a space where consistency beats talent, and where every resolved bug is a step closer to elite craftsmanship.
 
 ---
 
@@ -9,8 +18,6 @@ I build intelligent, production-ready systems, specializing in agentic AI archit
 
 * **Languages:** Python, TypeScript, JavaScript, SQL
 * **AI & Data:** OpenAI API, Anthropic Claude, LangChain, LlamaIndex, Vector Databases (Chroma/Pinecone)
-* **Backend:** Node.js, FastAPI, Express
-* **Frontend & Mobile:** React, Next.js, Android Development
 * **DevOps & Tools:** Git, GitHub Actions, Docker, Linux
 
 ---
@@ -40,18 +47,6 @@ A logic-based deductive reasoning application built around the rules of Murdoku 
 
 ---
 
-## 💼 Professional Experience
-
-**[Your Current/Most Recent Job Title]** | *[Company Name]* — [Year] - Present
-* Designed and deployed [mention a key system, e.g., an automated pipeline or backend service] that increased efficiency and team throughput.
-* Implemented structured development workflows to ensure high-quality deliverables under tight deadlines.
-* Collaborated closely with cross-functional teams to translate complex business requirements into clean, maintainable code.
-
-**[Previous Job Title]** | *[Previous Company Name]* — [Year] - [Year]
-* Engineered scalable software solutions using [mention core tech stack], optimizing system performance and codebase readability.
-* Automated testing and deployment processes, reducing production errors and deployment friction.
-
----
 
 ## 📈 GitHub Stats
 
@@ -63,6 +58,4 @@ A logic-based deductive reasoning application built around the rules of Murdoku 
 ## 📫 Let's Connect!
 
 * **LinkedIn:** [linkedin.com/in/brunomrsilva](https://pt.linkedin.com/in/brunomrsilva)
-* **Email:** [your.email@example.com](mailto:your.email@example.com)
-* **Portfolio:** [yourportfolio.dev](https://yourportfolio.dev)
 

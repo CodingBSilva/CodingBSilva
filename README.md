@@ -10,7 +10,7 @@ Driven by relentless curiosity, my current focus is pushing the boundaries of wh
 ### 💡 The "Weekend Project" Philosophy
 I am a firm believer in learning by doing. True technical mastery isn't born under the spotlight; it is built in the quiet hours of the weekend, line of code by line of code.
 
-That is why I created O Teu Treino de Elite — a dedicated repository for weekend projects designed for engineers who understand that the best way to master engineering and AI is to build. It’s a space where consistency beats talent, and where every resolved bug is a step closer to elite craftsmanship.
+That is why I created [The AI Weekend Project](https://github.com/CodingBSilva/TheWekendProject) — a dedicated repository for weekend projects designed for engineers who understand that the best way to master engineering and AI is to build. It’s a space where consistency beats talent, and where every resolved bug is a step closer to elite craftsmanship.
 
 ---
 

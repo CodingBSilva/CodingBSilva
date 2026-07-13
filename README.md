@@ -30,14 +30,14 @@ A curated ecosystem of practical AI applications designed to master agentic work
 * **Tech Stack:** Python, LangChain, OpenAI API, Vector DBs.
 
 ### 🛠️ [Aurora](https://github.com/CodingBSilva/Aurora)
-![Aurora](https://github.com/CodingBSilva/Aurora/blob/main/images/aurora2.png =250x)
+![](https://github.com/CodingBSilva/Aurora/blob/main/images/aurora2.png =250x)
 This repository contains the complete infrastructure for the Aurora platform, an integrated data and Machine Learning architecture deployed locally via Docker Compose on the <HOST_URL> server. 
 The deployment, structural validation, and environment updates are 100% automated via GitLab CI/CD.
 * **What it does:** Implements an integrated data and Machine Learning architecture deployed locally via Docker.
 * **Tech Stack:** Apache Airflow, MLflow, MinIO, Spark, Jupyter Notebook, PostgreSQL.
 
 ### 🛠️ [Hubble](https://github.com/CodingBSilva/Hubble)
-![Hubble](https://github.com/CodingBSilva/Aurora/blob/main/images/aurora2.png =250x)
+![](https://github.com/CodingBSilva/Aurora/blob/main/images/aurora2.png =250x)
 This repository contains the complete infrastructure for the Hubble platform, an independent, integrated observability stack (Metrics, Logs, and Dashboards) deployed locally via Docker Compose on the server. System deployment, structural validation, and configuration updates are 100% automated via GitLab CI/CD.
 * **What it does:** Hubble operates as a centralized ingestion engine. It exposes native endpoints to the network, allowing external ecosystems—such as the Aurora platform—to seamlessly ship metrics and logs without cross-project dependency.
 * **Tech Stack:** Prometheus, Grafana, Grafana Loki.

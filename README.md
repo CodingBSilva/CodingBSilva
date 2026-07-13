@@ -1,13 +1,13 @@
 # Hi there, I'm Bruno da Silva 👋
 
-### AI Curious Engineer 
+## The AI-Curious Engineer: Turning Complexity into High-Performance Systems 
 
-## 🚀 About Me
+### 🚀 About Me
 I build intelligent, production-ready systems, specializing in agentic AI architectures, LLM orchestration, and clean code. I love turning complex logic puzzles into elegant, high-performance applications.
 
 Driven by relentless curiosity, my current focus is pushing the boundaries of what's possible with modern AI, Large Language Models (LLMs), and autonomous agents.
 
-## 💡 The "Weekend Project" Philosophy
+### 💡 The "Weekend Project" Philosophy
 I am a firm believer in learning by doing. True technical mastery isn't born under the spotlight; it is built in the quiet hours of the weekend, line of code by line of code.
 
 That is why I created O Teu Treino de Elite — a dedicated repository for weekend projects designed for engineers who understand that the best way to master engineering and AI is to build. It’s a space where consistency beats talent, and where every resolved bug is a step closer to elite craftsmanship.

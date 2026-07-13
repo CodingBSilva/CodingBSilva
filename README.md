@@ -35,6 +35,11 @@ The deployment, structural validation, and environment updates are 100% automate
 * **What it does:** Implements an integrated data and Machine Learning architecture deployed locally via Docker.
 * **Tech Stack:** Apache Airflow, MLflow, MinIO, Spark, Jupyter Notebook, PostgreSQL.
 
+### 🛠️ [Hubble](https://github.com/CodingBSilva/Hubble).
+This repository contains the complete infrastructure for the Hubble platform, an independent, integrated observability stack (Metrics, Logs, and Dashboards) deployed locally via Docker Compose on the server. System deployment, structural validation, and configuration updates are 100% automated via GitLab CI/CD.
+* **What it does:** Hubble operates as a centralized ingestion engine. It exposes native endpoints to the network, allowing external ecosystems—such as the Aurora platform—to seamlessly ship metrics and logs without cross-project dependency.
+* **Tech Stack:** Prometheus, Grafana, Grafana Loki.
+
 ### 🗺️ [Middle-Earth Fitness Tracker]
 A gamified fitness application that transforms daily physical activity into an epic journey.
 * **What it does:** Integrates with Android Health data to track steps and kilometers, mapping the user's real-world walking progress to the legendary journey from Hobbiton to Mount Doom.

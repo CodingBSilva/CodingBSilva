@@ -25,6 +25,8 @@ That is why I created [The AI Weekend Project](https://github.com/CodingBSilva/T
 ## 🚀 Featured Projects
 
 ### 🛠️ [The AI Weekend Project](https://github.com/CodingBSilva/TheWekendProject)
+<img src="https://github.com/CodingBSilva/TheWekendProject/blob/main/header1.png" width="200" />
+
 A curated ecosystem of practical AI applications designed to master agentic workflows and advanced prompt engineering.
 * **What it does:** Implements custom system prompts, multi-agent coordination, and Retrieval-Augmented Generation (RAG) to solve real-world automation tasks.
 * **Tech Stack:** Python, LangChain, OpenAI API, Vector DBs.
@@ -43,6 +45,16 @@ The deployment, structural validation, and environment updates are 100% automate
 This repository contains the complete infrastructure for the Hubble platform, an independent, integrated observability stack (Metrics, Logs, and Dashboards) deployed locally via Docker Compose on the server. System deployment, structural validation, and configuration updates are 100% automated via GitLab CI/CD.
 * **What it does:** Hubble operates as a centralized ingestion engine. It exposes native endpoints to the network, allowing external ecosystems—such as the Aurora platform—to seamlessly ship metrics and logs without cross-project dependency.
 * **Tech Stack:** Prometheus, Grafana, Grafana Loki.
+
+### 🛠️ [Portal](https://github.com/CodingBSilva/Portal)
+<img src="https://github.com/CodingBSilva/Portal/blob/main/images/portal1.png" width="200" />
+
+This repository contains the decoupled, lightweight infrastructure configuration for Portal—the standalone telemetry agent suite of the Cosmic Ecosystem. Portal attaches directly to Aurora's runtime boundary to securely gather metrics and container daemon logs, streaming them over the network edge to Hubble for centralized observability.
+
+Deployment, continuous structural linting, and background infrastructure synchronization are 100% automated via GitLab CI/CD GitOps pipelines.
+
+* **What it does:** Portal attaches directly to Aurora's runtime boundary to securely gather metrics and container daemon logs, streaming them over the network edge to Hubble for centralized observability.
+* **Tech Stack:** Grafana Alloy, Postgres Exporter.
 
 ### 🗺️ [Middle-Earth Fitness Tracker]
 A gamified fitness application that transforms daily physical activity into an epic journey.
